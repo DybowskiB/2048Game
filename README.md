@@ -1,3 +1,3 @@
 # 2048Game
 
-C++ version of popular 2048 game.
+C++ version of 2048 game.
