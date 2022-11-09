@@ -6,6 +6,8 @@
 #include "time.h"
 #include <string>
 
+#pragma comment(lib, "Msimg32.lib")
+
 #define MAX_LOADSTRING 100
 #define SIZE_CHILD_WINDOW_X 60
 #define SIZE_CHILD_WINDOW_Y 60
